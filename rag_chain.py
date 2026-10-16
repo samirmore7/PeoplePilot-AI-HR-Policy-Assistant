@@ -1,6 +1,9 @@
-
+import os
 from dotenv import load_dotenv
 from google import genai
+
+load_dotenv()
+
 from retriever import load_vector_store, retrieve
 from sentence_transformers import SentenceTransformer
 
