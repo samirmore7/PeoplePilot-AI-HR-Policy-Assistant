@@ -1,0 +1,490 @@
+[
+  {
+    "text": "SAMPLE HR POLICY HANDBOOK ExampleTech Solutions Pvt. Ltd. A fictional 30-section employee policy document for GenAI / RAG demonstrations Version: 1.0 Status: Demonstration only Designed as sample source material for a document-question-answering chatbot. IMPORTANT: This handbook is fictional, illustrative, and not legal advice. It is not an official policy of any real company. Review and localize it before real-world use.",
+    "page_number": 1
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 2 Contents 1. Purpose, Scope & Guiding Principles 2. Employment Categories & Records 3. Equal Opportunity, Respect & Inclusion 4. Prevention of Harassment & Workplace Misconduct 5. Working Hours, Attendance & Remote Work 6. Leave & Holidays 7. Compensation, Payroll & Benefits 8. Performance Management & Development 9. Code of Conduct & Conflicts of Interest 10. Information Security, Privacy & Confidentiality 11. Acceptable Use of Technology ",
+    "page_number": 2
+  },
+  {
+    "text": " Confidentiality 11. Acceptable Use of Technology & AI 12. Recruitment, Selection & Onboarding 13. Grievances, Whistleblowing & Investigations 14. Health, Safety & Wellbeing 15. Remote Work, Devices & Workspace 16. Business Travel & Expenses 17. Learning, Certifications & Knowledge Sharing 18. Intellectual Property & Open Source 19. Customer, Vendor & Third-Party Conduct 20. Social Media & Public Communications 21. Discipline & Corrective Action 22. Resignation, Notice & Separation 23. Records M",
+    "page_number": 2
+  },
+  {
+    "text": "22. Resignation, Notice & Separation 23. Records Management & Document Control 24. Policy Exceptions, Questions & Review 25. Frequently Asked Questions 26. Glossary of Common HR Terms 27. Sample Leave Request & Approval Workflow 28. Sample Security Incident Response 29. Sample RAG & AI-Tool Use Guidance 30. Acknowledgement & Sample Contact Directory For a RAG demo, ask questions across different sections and verify that answers cite the correct policy topic.",
+    "page_number": 2
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 3 1. Purpose, Scope & Guiding Principles Policy owner: Human Resources | Status: Illustrative sample Purpose This handbook provides a consistent framework for people practices at ExampleTech Solutions Pvt. Ltd. (“the Company”), a fictional organization created for demonstration and learning. It describes expected workplace conduct, common employee processes, and where to seek support. Scope Unless a section states otherwise, this handbook ap",
+    "page_number": 3
+  },
+  {
+    "text": "nless a section states otherwise, this handbook applies to regular full-time and part-time employees. Some provisions may also apply to interns, contractors, and temporary staff through their agreements or local procedures. Where a signed employment agreement or applicable law provides a different mandatory rule, the law and valid agreement take precedence. Guiding principles The Company aims to treat people with dignity, make decisions consistently, protect confidential information, provide a s",
+    "page_number": 3
+  },
+  {
+    "text": "tly, protect confidential information, provide a safe workplace, and comply with applicable law. Managers are expected to apply policies fairly and seek HR advice when a situation is unusual or sensitive. How to use this handbook This is a sample policy document, not legal advice and not an official policy of any real employer. It intentionally uses illustrative rules and timelines. Before real-world use, an organization should review it with qualified HR and legal professionals and adapt it to ",
+    "page_number": 3
+  },
+  {
+    "text": "lified HR and legal professionals and adapt it to its jurisdiction, workforce, and benefits. Responsibilities Employees are responsible for reading relevant policies, asking questions when unclear, reporting concerns in good faith, and keeping their contact and payroll information current. Managers are responsible for explaining expectations, documenting important decisions, and escalating matters that require HR or specialist review. Example chatbot question: What is the purpose and scope of th",
+    "page_number": 3
+  },
+  {
+    "text": "tbot question: What is the purpose and scope of this handbook?",
+    "page_number": 3
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 4 2. Employment Categories & Records Policy owner: Human Resources | Status: Illustrative sample Employment categories The Company may engage regular employees, fixed-term employees, interns, apprentices, temporary workers, and independent contractors. The written offer or contract determines the applicable category, duration, compensation, and any special terms. Offer and joining documentation Before or at joining, employees may be asked to",
+    "page_number": 4
+  },
+  {
+    "text": "on Before or at joining, employees may be asked to provide identity and address documents, education and experience records, bank and tax details, emergency contacts, and any legally required declarations. Only information reasonably required for employment administration should be collected. Personnel records HR maintains personnel records in approved systems with access limited to people who need the information for legitimate work purposes. Employees should notify HR promptly of changes to th",
+    "page_number": 4
+  },
+  {
+    "text": "ployees should notify HR promptly of changes to their name, address, bank details, emergency contact, or other relevant records. Background verification Where lawful and relevant to the role, employment may be subject to verification of identity, qualifications, employment history, or other disclosed requirements. Any discrepancy should be reviewed fairly, with an opportunity for the employee to clarify it. Probation and confirmation Where a probation period is specified in the offer letter, the",
+    "page_number": 4
+  },
+  {
+    "text": "ation period is specified in the offer letter, the manager should communicate expectations and provide feedback during that period. Confirmation, extension, or separation should be documented and handled in accordance with the employment terms and applicable law. Example chatbot question: What documents may HR request during onboarding?",
+    "page_number": 4
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 5 3. Equal Opportunity, Respect & Inclusion Policy owner: Human Resources | Status: Illustrative sample Equal opportunity Employment decisions should be based on job-related criteria such as skills, qualifications, performance, and business needs. The Company prohibits unlawful discrimination and aims to provide fair access to recruitment, development, compensation, and advancement. Respectful conduct Employees should communicate professiona",
+    "page_number": 5
+  },
+  {
+    "text": "l conduct Employees should communicate professionally and treat colleagues, customers, vendors, and visitors with courtesy. Bullying, intimidation, humiliating behavior, targeted insults, or repeated unreasonable conduct is not acceptable. Reasonable accommodation Employees who need an accommodation for a disability, religious practice, pregnancy-related need, or another legally protected circumstance may contact HR. Requests will be considered individually, with confidentiality and applicable l",
+    "page_number": 5
+  },
+  {
+    "text": "ndividually, with confidentiality and applicable legal obligations in mind. Inclusive meetings and collaboration Teams should make reasonable efforts to ensure that people can participate, provide accessible materials when practicable, and avoid assumptions about an individual's background, ability, or personal circumstances. Raising concerns Employees may raise concerns with their manager, HR, or another designated contact. Retaliation against a person who raises a concern in good faith or part",
+    "page_number": 5
+  },
+  {
+    "text": " person who raises a concern in good faith or participates in an investigation is prohibited. Example chatbot question: How should an employee raise an inclusion concern?",
+    "page_number": 5
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 6 4. Prevention of Harassment & Workplace Misconduct Policy owner: Human Resources | Status: Illustrative sample Expected standard The Company expects a workplace free from harassment, sexual harassment, threats, and other misconduct. Concerns should be taken seriously and handled promptly, impartially, and with respect for everyone involved. Reporting options An employee may report a concern to HR, a manager outside the reporting line, or t",
+    "page_number": 6
+  },
+  {
+    "text": " to HR, a manager outside the reporting line, or the designated committee or officer required by applicable law. In India, complaints of sexual harassment at work must be handled under the applicable POSH framework, including the Internal Committee process where required. Confidentiality Information about a complaint should be shared only with people who need it to assess, investigate, resolve, or legally process the matter. Absolute secrecy cannot be guaranteed where a fair investigation or leg",
+    "page_number": 6
+  },
+  {
+    "text": "ot be guaranteed where a fair investigation or legal duty requires disclosure. Investigation process Depending on the concern, the Company may conduct an initial assessment, preserve relevant records, interview involved people and witnesses, review available evidence, and provide an opportunity to respond. The process should be impartial and documented. Protection against retaliation Retaliation, threats, adverse treatment, or pressure against someone who reports a concern or participates honest",
+    "page_number": 6
+  },
+  {
+    "text": "meone who reports a concern or participates honestly in an investigation is prohibited. Any suspected retaliation should be reported promptly. Possible outcomes Outcomes depend on the evidence, severity, applicable policy, and law. They may include coaching, corrective action, formal disciplinary action, or other steps. This sample does not replace any legally mandated procedure. Example chatbot question: How are harassment complaints handled?",
+    "page_number": 6
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 7 5. Working Hours, Attendance & Remote Work Policy owner: Human Resources | Status: Illustrative sample Working hours Standard working hours, shift timings, weekly offs, and break arrangements should be communicated by the team or employment agreement and must comply with applicable law. Employees should record time accurately where a timekeeping system is used. Attendance and punctuality Employees should inform their manager as early as re",
+    "page_number": 7
+  },
+  {
+    "text": "ployees should inform their manager as early as reasonably possible if they expect to be late, absent, or unable to attend a scheduled shift. Repeated unexplained absence may be addressed through the performance or disciplinary process. Overtime and additional hours Additional hours should be approved in advance where required by the role and company process. Eligibility for overtime pay or compensatory time is governed by applicable law and the employee's employment terms. Hybrid and remote wor",
+    "page_number": 7
+  },
+  {
+    "text": "employee's employment terms. Hybrid and remote work Remote work arrangements require manager approval and may depend on role requirements, information security, customer commitments, and business continuity. Employees working remotely must maintain appropriate availability and protect company information. Availability and boundaries Teams should agree on reasonable response expectations and meeting schedules. Employees should use breaks and leave entitlements and avoid assuming that colleagues a",
+    "page_number": 7
+  },
+  {
+    "text": " entitlements and avoid assuming that colleagues are continuously available outside agreed working hours. Example chatbot question: What should an employee do if they will be late?",
+    "page_number": 7
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 8 6. Leave & Holidays Policy owner: Human Resources | Status: Illustrative sample Leave administration Leave requests should be submitted through the designated HR system or manager process, with as much notice as practical. Approval depends on policy, staffing needs, applicable law, and the nature of the leave. Annual or earned leave The number of annual or earned leave days, accrual method, carry-forward limit, and encashment rules must be",
+    "page_number": 8
+  },
+  {
+    "text": " carry-forward limit, and encashment rules must be stated in the applicable employment terms or local leave schedule. This sample handbook does not establish a legally binding entitlement. Casual and sick leave Employees should notify their manager when illness or an urgent personal matter prevents attendance. Medical documentation may be requested only where appropriate and lawful. Health details should be handled confidentially. Public holidays The Company publishes a holiday calendar for each",
+    "page_number": 8
+  },
+  {
+    "text": " The Company publishes a holiday calendar for each relevant location. Holiday work, substitute holidays, or additional compensation should be handled under local law and the approved schedule. Other statutory leave Maternity, paternity, adoption, bereavement, disability-related, and other statutory or special leave will be administered according to applicable law and company-specific rules. Employees should contact HR for eligibility and documentation guidance. Leave during exit Unused leave at ",
+    "page_number": 8
+  },
+  {
+    "text": "ation guidance. Leave during exit Unused leave at separation is treated according to applicable law and the employee's written terms. Employees should confirm their leave balance with HR rather than assume that all unused leave is payable. Example chatbot question: How should an employee request annual leave?",
+    "page_number": 8
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 9 7. Compensation, Payroll & Benefits Policy owner: Human Resources | Status: Illustrative sample Compensation structure Compensation is documented in the offer letter and may include fixed pay, variable pay, allowances, reimbursements, and benefits. The Company will communicate material changes through appropriate written channels. Payroll cycle Payroll is processed on the published payroll calendar, subject to receipt of accurate attendanc",
+    "page_number": 9
+  },
+  {
+    "text": "calendar, subject to receipt of accurate attendance, tax, bank, and other required information. Employees should report suspected errors to Payroll or HR with supporting details. Deductions and statutory contributions Taxes, social security contributions, provident fund, insurance, or other deductions are applied as required by applicable law and the employee's terms. Employees may request a payslip or clarification of a deduction. Variable compensation Any incentive, bonus, commission, or varia",
+    "page_number": 9
+  },
+  {
+    "text": "nsation Any incentive, bonus, commission, or variable-pay plan is governed by its written terms, eligibility rules, measurement period, approval process, and applicable law. Informal statements should not be treated as a guaranteed entitlement. Expense reimbursement Business expenses should be necessary, reasonable, supported by valid receipts, and submitted within the published deadline. Personal expenses should not be claimed as business expenses. Benefits and insurance Eligibility, coverage, ",
+    "page_number": 9
+  },
+  {
+    "text": "es. Benefits and insurance Eligibility, coverage, dependants, exclusions, claim procedures, and effective dates are determined by the relevant benefit plan documents. HR can direct employees to the current plan details. Example chatbot question: Who should an employee contact about a payroll error?",
+    "page_number": 9
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 10 8. Performance Management & Development Policy owner: Human Resources | Status: Illustrative sample Goal setting Managers and employees should agree on clear goals, success measures, priorities, and review dates. Goals may be adjusted when business priorities change, with expectations communicated clearly. Feedback Feedback should be timely, specific, respectful, and focused on observable work. Employees should have an opportunity to disc",
+    "page_number": 10
+  },
+  {
+    "text": "work. Employees should have an opportunity to discuss obstacles, ask questions, and identify support needed to meet expectations. Performance reviews Formal reviews may consider results, quality, collaboration, reliability, role-specific competencies, and agreed goals. Ratings, where used, should be supported by evidence and calibrated consistently. Performance improvement When performance falls below expectations, the manager should explain the gaps, expected standards, support available, miles",
+    "page_number": 10
+  },
+  {
+    "text": "gaps, expected standards, support available, milestones, and review period. Any formal plan should be documented and applied fairly. Learning and development Employees are encouraged to maintain relevant skills through training, mentoring, knowledge sharing, and approved learning resources. Training budgets and reimbursement rules depend on company plans. Internal mobility Employees may apply for internal opportunities where eligible. Selection should be based on role requirements and a fair ass",
+    "page_number": 10
+  },
+  {
+    "text": "hould be based on role requirements and a fair assessment, taking account of business needs and any required approvals. Example chatbot question: How are performance goals and reviews handled?",
+    "page_number": 10
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 11 9. Code of Conduct & Conflicts of Interest Policy owner: Human Resources | Status: Illustrative sample Professional conduct Employees must act honestly, follow lawful instructions, use good judgment, and avoid conduct that harms colleagues, customers, or the Company. Falsification, fraud, theft, threats, and deliberate misuse of company assets are prohibited. Conflicts of interest A conflict may arise when personal, family, financial, or ",
+    "page_number": 11
+  },
+  {
+    "text": "ct may arise when personal, family, financial, or outside business interests affect—or reasonably appear to affect—work decisions. Employees should disclose potential conflicts promptly to their manager or HR. Gifts and hospitality Gifts, meals, travel, or hospitality must not influence business decisions or create an improper obligation. Employees should follow any applicable limits and approval process and decline or disclose anything that could reasonably appear improper. Outside employment O",
+    "page_number": 11
+  },
+  {
+    "text": "d reasonably appear improper. Outside employment Outside work, consulting, directorships, or business activities must not conflict with duties, misuse confidential information, compete improperly, or interfere with working commitments. Disclosure or approval may be required by the employment terms. Company property Equipment, accounts, facilities, software, and funds should be used for authorized purposes. Employees must return company property when requested or when employment ends. Reporting m",
+    "page_number": 11
+  },
+  {
+    "text": "hen requested or when employment ends. Reporting misconduct Suspected fraud, corruption, policy violations, or serious misconduct should be reported through the manager, HR, or an approved reporting channel. Reports made in good faith will be handled under the relevant process. Example chatbot question: What should an employee do about a conflict of interest?",
+    "page_number": 11
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 12 10. Information Security, Privacy & Confidentiality Policy owner: Human Resources | Status: Illustrative sample Confidential information Confidential information includes non-public customer data, employee records, business plans, source code, credentials, financial information, contracts, and internal documents. Employees should access and share it only for authorized work. Personal data Personal data should be collected and used only fo",
+    "page_number": 12
+  },
+  {
+    "text": "Personal data should be collected and used only for legitimate purposes, with appropriate notice, access controls, retention, and security. Employees should not download or disclose personal data without authorization. Passwords and authentication Use unique passwords and approved multi-factor authentication. Never share passwords, authentication codes, private keys, or access tokens. Suspected compromise should be reported immediately. Device security Keep devices updated, use approved security",
+    "page_number": 12
+  },
+  {
+    "text": "curity Keep devices updated, use approved security tools, lock screens when away, and avoid untrusted networks or software. Lost devices should be reported promptly so access can be protected. Incident reporting Report suspected phishing, malware, accidental disclosure, lost equipment, or unauthorized access to the designated IT/security contact. Prompt reporting helps limit harm; employees should not conceal mistakes. Retention and disposal Records should be retained according to approved sched",
+    "page_number": 12
+  },
+  {
+    "text": "rds should be retained according to approved schedules and legal requirements. Confidential paper and digital records must be disposed of securely when no longer needed. Use of public AI tools Do not paste confidential company data, customer records, source code, credentials, or personal information into public AI tools unless the tool and use have been approved. Verify generated output before relying on it. Example chatbot question: Can confidential data be pasted into a public AI tool?",
+    "page_number": 12
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 13 11. Acceptable Use of Technology & AI Policy owner: Human Resources | Status: Illustrative sample Authorized use Company systems should be used lawfully, ethically, and in accordance with security instructions. Limited personal use may be allowed if it does not create risk, cost, disruption, or policy violations. Software installation Install software, extensions, libraries, and AI coding assistants only through approved processes. Review",
+    "page_number": 13
+  },
+  {
+    "text": "assistants only through approved processes. Review licenses, permissions, data handling, and security implications before adopting a tool. AI-generated code AI-generated code must be reviewed, tested, and checked for security, licensing, correctness, and maintainability. Employees remain responsible for code they submit or deploy. AI-generated content Generated summaries, analyses, and recommendations may contain errors or fabricated details. Verify important claims against reliable sources, par",
+    "page_number": 13
+  },
+  {
+    "text": "ify important claims against reliable sources, particularly for legal, HR, financial, security, or customer-impacting decisions. Human review AI should not be used as the sole decision-maker for consequential employment, disciplinary, hiring, compensation, or other high-impact decisions unless an approved process and applicable law expressly permit the use. Human oversight and appropriate safeguards are required. Data sent to AI providers Before using an external AI service, confirm that the pro",
+    "page_number": 13
+  },
+  {
+    "text": "using an external AI service, confirm that the provider, data category, retention settings, and intended use are approved. Use synthetic or anonymized data for experimentation where practical. Transparency Where required by law, contract, or company process, disclose material AI assistance and preserve appropriate records of how outputs were reviewed. Example chatbot question: What rules apply to AI-generated code?",
+    "page_number": 13
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 14 12. Recruitment, Selection & Onboarding Policy owner: Human Resources | Status: Illustrative sample Workforce planning Hiring should be based on an approved business need, role scope, budget, and authorized headcount. Job descriptions should identify core responsibilities, essential skills, and relevant working conditions. Fair selection Candidates should be assessed against job-related criteria using consistent, accessible methods. Inter",
+    "page_number": 14
+  },
+  {
+    "text": "iteria using consistent, accessible methods. Interviewers should avoid discriminatory or irrelevant questions and protect candidate information. Candidate communications Recruiters should communicate interview arrangements, expected timelines, and any material changes promptly. Offers must be approved and issued in writing by an authorized representative. Reference and background checks Checks should be relevant, proportionate, lawful, and disclosed as required. Information obtained should be re",
+    "page_number": 14
+  },
+  {
+    "text": "sed as required. Information obtained should be restricted to authorized decision-makers and handled confidentially. Onboarding New employees should receive role expectations, team introductions, access to necessary systems, security and conduct training, and information about benefits and policies. Early support Managers should schedule regular check-ins during the initial period to clarify priorities, identify training needs, and address practical barriers to success. Example chatbot question:",
+    "page_number": 14
+  },
+  {
+    "text": "cal barriers to success. Example chatbot question: How should candidates be assessed?",
+    "page_number": 14
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 15 13. Grievances, Whistleblowing & Investigations Policy owner: Human Resources | Status: Illustrative sample Purpose The grievance process gives employees a route to raise workplace concerns, including unfair treatment, interpersonal conflict, policy application, or working conditions. Informal resolution Where safe and appropriate, employees may discuss a concern with their manager or HR to seek an early resolution. Informal handling is n",
+    "page_number": 15
+  },
+  {
+    "text": "o seek an early resolution. Informal handling is not required for serious allegations, harassment, safety risks, or matters that require formal action. Formal grievance A formal grievance should describe the concern, relevant dates, people involved, steps already taken, and the outcome sought where known. HR will acknowledge it and explain the next steps where practicable. Whistleblowing Suspected fraud, corruption, serious legal violations, or significant risks may be reported through designate",
+    "page_number": 15
+  },
+  {
+    "text": "ignificant risks may be reported through designated channels. Employees should provide information honestly and should not investigate matters themselves in ways that create risk. Impartial review The Company should assess conflicts of interest and appoint an appropriate reviewer. Relevant records should be preserved, parties should be treated fairly, and findings should be based on available evidence. Non-retaliation Good-faith reports and participation in a process must not lead to retaliation",
+    "page_number": 15
+  },
+  {
+    "text": "cipation in a process must not lead to retaliation. Knowingly false allegations may be addressed through a fair process, but an unsubstantiated report alone does not prove bad faith. Appeal or review Where the process provides an appeal, the employee should be told the deadline, grounds, and recipient. A reviewer not previously involved should be used where practicable. Example chatbot question: What happens after a formal grievance is raised?",
+    "page_number": 15
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 16 14. Health, Safety & Wellbeing Policy owner: Human Resources | Status: Illustrative sample Safe workplace Employees should follow safety instructions, report hazards, and use equipment only as trained. Managers should address identified risks and arrange appropriate support. Emergencies Know the local emergency exits, assembly points, first-aid arrangements, and emergency contacts. Report accidents, injuries, near misses, or unsafe condit",
+    "page_number": 16
+  },
+  {
+    "text": "accidents, injuries, near misses, or unsafe conditions promptly. Ergonomics Employees should set up workstations to support comfortable posture, take reasonable breaks, and report persistent workplace discomfort so available support can be considered. Mental wellbeing The Company encourages respectful workloads, supportive conversations, and use of available wellbeing resources. Managers should respond sensitively to concerns and refer employees to appropriate support where possible. Substance i",
+    "page_number": 16
+  },
+  {
+    "text": "to appropriate support where possible. Substance impairment Employees must not work while impaired in a way that creates a safety risk or prevents safe performance. Any response should comply with applicable law and relevant accommodation requirements. Travel and field work Employees undertaking business travel or field duties should follow approved travel, safety, expense, and emergency procedures. Additional risk controls may be required for particular locations or activities. Example chatbot ",
+    "page_number": 16
+  },
+  {
+    "text": "rticular locations or activities. Example chatbot question: How should an employee report a workplace hazard?",
+    "page_number": 16
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 17 15. Remote Work, Devices & Workspace Policy owner: Human Resources | Status: Illustrative sample Eligibility and approval Remote or hybrid arrangements depend on role suitability, customer requirements, information security, performance needs, and manager approval. Approval may be reviewed when circumstances change. Work environment Employees should maintain a reasonably safe and private workspace, protect screens and documents from unaut",
+    "page_number": 17
+  },
+  {
+    "text": "orkspace, protect screens and documents from unauthorized viewing, and use approved equipment and connectivity. Availability and communication Employees should maintain agreed working hours, attend required meetings, update calendars, and communicate delays or outages. Teams should set practical response-time expectations. Equipment and support Company-issued equipment remains company property and should be used in line with IT policy. Employees should report faults, loss, theft, or security inc",
+    "page_number": 17
+  },
+  {
+    "text": "should report faults, loss, theft, or security incidents promptly. Cross-location work Working from another state or country may create tax, employment, security, or regulatory issues. Employees must obtain approval before changing their normal work location for an extended period. Ending an arrangement Remote-work arrangements may be changed or ended based on business requirements, performance, security, or other legitimate reasons, subject to applicable terms and law. Example chatbot question:",
+    "page_number": 17
+  },
+  {
+    "text": "pplicable terms and law. Example chatbot question: What security steps apply to remote work?",
+    "page_number": 17
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 18 16. Business Travel & Expenses Policy owner: Human Resources | Status: Illustrative sample Pre-approval Business travel should have a clear business purpose and the required manager approval before bookings are made. Travel should follow approved booking and safety procedures. Reasonable costs Employees should select reasonable transport, accommodation, meals, and other necessary expenses within the applicable limits. Personal upgrades an",
+    "page_number": 18
+  },
+  {
+    "text": "within the applicable limits. Personal upgrades and leisure expenses are not reimbursable unless expressly approved. Claims and receipts Expense claims should identify the business purpose, date, amount, currency, and participants where relevant. Receipts and supporting records should be submitted within the published deadline. Corporate cards Corporate cards may be used only for authorized business expenses. Cardholders must reconcile transactions promptly and report lost cards or suspicious ac",
+    "page_number": 18
+  },
+  {
+    "text": "ns promptly and report lost cards or suspicious activity immediately. Travel changes Unexpected changes, cancellations, or emergencies should be communicated to the manager and travel contact as soon as practicable. Employees should prioritize safety and follow insurer or local guidance where relevant. Compliance Employees must not split claims, falsify receipts, claim the same expense twice, or misrepresent personal expenses as business costs. Example chatbot question: What documentation is nee",
+    "page_number": 18
+  },
+  {
+    "text": "xample chatbot question: What documentation is needed for expense reimbursement?",
+    "page_number": 18
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 19 17. Learning, Certifications & Knowledge Sharing Policy owner: Human Resources | Status: Illustrative sample Learning plans Employees and managers may agree on learning objectives tied to role needs, career goals, and upcoming projects. Progress should be discussed during regular check-ins. Training approval Courses, certifications, conferences, and paid learning tools may require advance approval and budget availability. Reimbursement co",
+    "page_number": 19
+  },
+  {
+    "text": "approval and budget availability. Reimbursement conditions should be confirmed before purchase. Knowledge sharing Employees are encouraged to share useful learning through documentation, demonstrations, mentoring, and team discussions while respecting confidentiality and intellectual property. Certification integrity Employees must complete assessments honestly and comply with certification-provider rules. Company-funded certification claims should be accurate and supported by required records. ",
+    "page_number": 19
+  },
+  {
+    "text": "ld be accurate and supported by required records. Training records Completion evidence may be recorded for compliance, role readiness, or development planning. Access to learning records should be limited to legitimate business needs. Applying learning Managers should provide reasonable opportunities to apply newly learned skills where relevant. Training does not guarantee promotion, compensation changes, or a particular assignment. Example chatbot question: Can employees claim reimbursement for",
+    "page_number": 19
+  },
+  {
+    "text": "ot question: Can employees claim reimbursement for a certification?",
+    "page_number": 19
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 20 18. Intellectual Property & Open Source Policy owner: Human Resources | Status: Illustrative sample Work product Ownership of inventions, code, designs, documentation, and other work product created in the course of employment is governed by applicable law and the employment agreement. Employees should clarify ownership questions before undertaking external projects. Third-party materials Employees must respect copyrights, licenses, paten",
+    "page_number": 20
+  },
+  {
+    "text": "Employees must respect copyrights, licenses, patents, trade secrets, and contractual restrictions. Do not copy proprietary code or documents into company work without authorization. Open-source software Before adding an open-source package, review its license, maintenance status, security posture, and compatibility with company requirements. Some licenses impose attribution, disclosure, or distribution obligations. AI-assisted development Review the license and provenance risks of AI-generated c",
+    "page_number": 20
+  },
+  {
+    "text": "the license and provenance risks of AI-generated code and ensure it does not include secrets or confidential material. Follow the company's approved review and scanning process. Disclosure of inventions Employees should disclose potentially relevant inventions or intellectual property through the process specified in their agreement or company procedure. External publication Technical blogs, talks, code repositories, and public demonstrations must not reveal confidential information or customer ",
+    "page_number": 20
+  },
+  {
+    "text": "t not reveal confidential information or customer data. Obtain approval when required by policy or contract. Example chatbot question: What should be checked before using open-source software?",
+    "page_number": 20
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 21 19. Customer, Vendor & Third-Party Conduct Policy owner: Human Resources | Status: Illustrative sample Customer commitments Employees should make accurate representations about capabilities, delivery dates, security, and pricing. Do not promise terms outside delegated authority. Vendor selection Vendor decisions should use appropriate business criteria, disclose conflicts, and follow procurement approvals. Personal benefits must not influ",
+    "page_number": 21
+  },
+  {
+    "text": "rement approvals. Personal benefits must not influence selection. Confidential exchanges Share customer or vendor information only with authorized recipients and through approved channels. Confirm recipients and permissions before sending sensitive files. Third-party access External parties should receive only the access necessary for their work, for an approved duration, and under appropriate contractual and security controls. Gifts and inducements Never offer or accept bribes, kickbacks, or be",
+    "page_number": 21
+  },
+  {
+    "text": "nts Never offer or accept bribes, kickbacks, or benefits intended to improperly influence a decision. Escalate questionable requests to the designated compliance contact. Issue escalation Customer complaints, security concerns, suspected fraud, and material delivery risks should be escalated promptly through the relevant account or management process. Example chatbot question: How should third-party access be controlled?",
+    "page_number": 21
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 22 20. Social Media & Public Communications Policy owner: Human Resources | Status: Illustrative sample Personal expression Employees may express personal views in their own capacity, subject to law and their obligations to protect confidential information and avoid unlawful harassment or threats. Speaking for the Company Only authorized spokespersons may make official statements, comment on confidential matters, or commit the Company public",
+    "page_number": 22
+  },
+  {
+    "text": "confidential matters, or commit the Company publicly. Employees should not imply that personal views are official positions. Confidentiality online Do not post internal screenshots, source code, customer details, employee records, non-public financial information, or confidential project information. Professional conduct Online behavior that targets colleagues, discloses protected information, or creates a serious workplace risk may be reviewed under applicable policy and law. Media inquiries Fo",
+    "page_number": 22
+  },
+  {
+    "text": "nder applicable policy and law. Media inquiries Forward media, investor, or official inquiries to the designated communications or leadership contact. Do not speculate on behalf of the Company. Public portfolios Employees should confirm they have permission before publishing work samples, code, logos, or project details. Use synthetic or sanitized examples when authorization is unclear. Example chatbot question: Can an employee post internal screenshots on social media?",
+    "page_number": 22
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 23 21. Discipline & Corrective Action Policy owner: Human Resources | Status: Illustrative sample Principles Corrective action should be proportionate, consistent, evidence-based, and compliant with applicable law and contractual terms. The response depends on the nature and seriousness of the conduct. Fact-finding Before formal action, the Company should assess relevant facts, preserve records, and give the employee a reasonable opportunity",
+    "page_number": 23
+  },
+  {
+    "text": "ds, and give the employee a reasonable opportunity to respond, except where urgent interim measures are necessary and lawful. Possible measures Depending on circumstances, measures may include coaching, a written warning, a performance or conduct plan, restriction of access, suspension where lawful, or termination under applicable procedures. Serious misconduct Fraud, violence, serious harassment, deliberate data theft, major security violations, or other severe conduct may warrant formal invest",
+    "page_number": 23
+  },
+  {
+    "text": " or other severe conduct may warrant formal investigation and significant action. No automatic outcome is promised by this sample. Documentation Material decisions should record the concern, evidence considered, employee response, rationale, decision-maker, and any review or appeal route. Fairness and consistency Relevant context, prior guidance, severity, impact, intent, and comparable cases should be considered where appropriate. Employees should not be disciplined for raising a good-faith con",
+    "page_number": 23
+  },
+  {
+    "text": "ld not be disciplined for raising a good-faith concern. Example chatbot question: What factors are considered in corrective action?",
+    "page_number": 23
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 24 22. Resignation, Notice & Separation Policy owner: Human Resources | Status: Illustrative sample Resignation Employees should submit resignation in writing to the designated manager or HR contact. The notice period, acceptance process, and any waiver or adjustment are governed by the employment agreement and applicable law. Transition planning During notice, employees should support reasonable knowledge transfer, document open work, retur",
+    "page_number": 24
+  },
+  {
+    "text": "able knowledge transfer, document open work, return assigned responsibilities, and cooperate with an orderly handover. Company-initiated separation Any termination or redundancy process must follow applicable law, contract terms, and required procedural safeguards. Employees should receive relevant written communications and final-pay information. Exit interview HR may invite departing employees to provide feedback. Participation and the handling of responses should follow the applicable process",
+    "page_number": 24
+  },
+  {
+    "text": " of responses should follow the applicable process and privacy expectations. Return of property Employees must return company equipment, identity cards, keys, records, and other property by the required date. Access may be adjusted to protect systems and information. Final settlement Final wages, approved expenses, statutory amounts, leave treatment, tax documents, and other payments are handled according to applicable law and the employment terms. HR or Payroll should provide the expected proce",
+    "page_number": 24
+  },
+  {
+    "text": "s. HR or Payroll should provide the expected process and required actions. Continuing obligations Confidentiality, intellectual-property, data protection, and other lawful post-employment obligations may continue after separation according to the relevant agreement and law. Example chatbot question: What should an employee do when resigning?",
+    "page_number": 24
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 25 23. Records Management & Document Control Policy owner: Human Resources | Status: Illustrative sample Official records Business records should be created, stored, and maintained in approved systems so that they remain accurate, accessible to authorized users, and protected from unauthorized changes. Retention schedule Records should be retained according to the approved retention schedule and applicable legal, tax, employment, and contrac",
+    "page_number": 25
+  },
+  {
+    "text": "and applicable legal, tax, employment, and contractual requirements. Employees should not independently destroy records subject to a hold. Legal holds When notified of litigation, an investigation, or a preservation requirement, employees must preserve relevant records and follow instructions from Legal or the designated contact. Version control Policy documents should identify the owner, version, effective date, and approval status. Employees should consult the current approved version rather t",
+    "page_number": 25
+  },
+  {
+    "text": "ould consult the current approved version rather than rely on outdated copies. Access control Access to HR and personnel records should be based on business need and reviewed when roles change. Sensitive records should not be stored in personal email, unmanaged drives, or unauthorized AI tools. Secure disposal When disposal is approved, paper and electronic records should be securely destroyed or deleted in accordance with retention and security procedures. Example chatbot question: How long sho",
+    "page_number": 25
+  },
+  {
+    "text": "procedures. Example chatbot question: How long should company records be retained?",
+    "page_number": 25
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 26 24. Policy Exceptions, Questions & Review Policy owner: Human Resources | Status: Illustrative sample Questions Employees should contact their manager or HR for clarification about how a policy applies. Security, privacy, legal, safety, or harassment concerns should be directed to the designated specialist channel where appropriate. Exceptions A policy exception must be approved in writing by the authorized owner before it is relied upon,",
+    "page_number": 26
+  },
+  {
+    "text": " by the authorized owner before it is relied upon, unless emergency action is necessary to protect people or systems. Exceptions cannot override applicable law. Policy owner HR owns this sample handbook's people-policy framework in the fictional organization. Other sections may require review by Legal, IT/Security, Finance, Facilities, or another accountable function. Review cycle Policies should be reviewed periodically and when law, business operations, technology, or workforce needs change. C",
+    "page_number": 26
+  },
+  {
+    "text": "erations, technology, or workforce needs change. Changes should be approved and communicated through an established process. Acknowledgement Employees may be asked to acknowledge that they received and reviewed the current handbook. Acknowledgement does not waive statutory rights or replace a signed agreement. Interpretation Where this sample conflicts with applicable law or a valid written employment agreement, the applicable legal requirement or controlling agreement takes precedence. Seek qua",
+    "page_number": 26
+  },
+  {
+    "text": "r controlling agreement takes precedence. Seek qualified advice before adopting this document in a real organization. Example chatbot question: How are policy exceptions approved?",
+    "page_number": 26
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 27 25. Frequently Asked Questions Policy owner: Human Resources | Status: Illustrative sample How do I request leave? Use the approved HR system or process, check your available balance, and submit the request with the required notice. For illness or emergencies, notify your manager as soon as reasonably possible. What if my payslip appears incorrect? Contact Payroll or HR with the pay period, the item in question, and any relevant supportin",
+    "page_number": 27
+  },
+  {
+    "text": ", the item in question, and any relevant supporting information. Avoid sending bank credentials or passwords. Can I use a public AI chatbot for work? Only for approved purposes and approved data categories. Do not enter confidential, personal, customer, or proprietary information into an unapproved tool. What if I see a security incident? Report it immediately through the approved IT/security channel. Preserve relevant details and do not attempt risky investigation or conceal the issue. What if ",
+    "page_number": 27
+  },
+  {
+    "text": "risky investigation or conceal the issue. What if my manager is involved in my complaint? Use HR, a manager outside the reporting line, or the designated independent reporting channel. Serious allegations should not be routed only through the person named in the complaint. Can I publish a project on GitHub? Only if you have the necessary authorization and the repository contains no confidential information, secrets, customer data, or restricted code. Where can I find the current holiday calendar",
+    "page_number": 27
+  },
+  {
+    "text": "ode. Where can I find the current holiday calendar? Check the approved HR portal or the location-specific notice from HR. Public holidays and local rules may vary by work location. Does this handbook guarantee a benefit? No. This is a fictional sample for demonstration. Real entitlements are defined by applicable law, approved plan documents, and valid employment terms. Example chatbot question: What should an employee do if a payslip is incorrect?",
+    "page_number": 27
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 28 26. Glossary of Common HR Terms Policy owner: Human Resources | Status: Illustrative sample CTC Cost to Company: an employer's stated annualized cost of employment, which may include fixed pay, variable pay, benefits, and employer contributions. It is not the same as monthly take-home pay. Gross pay and net pay Gross pay is earnings before employee deductions. Net or take-home pay is what remains after applicable deductions. Probation An ",
+    "page_number": 28
+  },
+  {
+    "text": "remains after applicable deductions. Probation An initial employment period during which role fit and performance are assessed, subject to the employment agreement and law. PIP Performance Improvement Plan: a documented process describing performance gaps, expected improvement, support, milestones, and review dates. POSH Prevention of Sexual Harassment. In India, workplace sexual-harassment obligations are governed by applicable law, including the POSH Act and related rules. Confidential informa",
+    "page_number": 28
+  },
+  {
+    "text": "e POSH Act and related rules. Confidential information Non-public information that must be protected from unauthorized access or disclosure. RAG Retrieval-Augmented Generation: a GenAI pattern that retrieves relevant external information and provides it to a model as context. MCP Model Context Protocol: a standard for connecting compatible AI applications to tools and contextual data sources. Vector embedding A numerical representation of data used by machine-learning systems to compare semantic",
+    "page_number": 28
+  },
+  {
+    "text": "ed by machine-learning systems to compare semantic or other learned similarities. Data minimization Collecting, using, and sharing only the personal or sensitive information reasonably necessary for a defined purpose. Example chatbot question: What does CTC mean?",
+    "page_number": 28
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 29 27. Sample Leave Request & Approval Workflow Policy owner: Human Resources | Status: Illustrative sample Step 1 — Review The employee checks the relevant leave policy, available balance, team calendar, and any handover needs. Step 2 — Submit The employee submits dates, leave category, and any required details through the approved HR system. Sensitive medical details should not be included unless required through a lawful and appropriate p",
+    "page_number": 29
+  },
+  {
+    "text": "unless required through a lawful and appropriate process. Step 3 — Manager review The manager considers eligibility, coverage, timing, and policy rules. A request should not be denied for an unlawful reason. Step 4 — Decision The manager or system records approval or rejection and communicates the decision. If rejected, the employee may ask about alternatives or the relevant escalation process. Step 5 — Record The approved leave is recorded in the HR system so payroll, attendance, and team plann",
+    "page_number": 29
+  },
+  {
+    "text": "e HR system so payroll, attendance, and team planning remain consistent. Emergency absence If advance submission is not practical, the employee should notify the manager as soon as reasonably possible and complete any required record after the immediate situation is addressed. Audit and privacy Leave records should be accessible only to authorized people. Reports should use aggregated or minimized information where individual details are unnecessary. Example chatbot question: How is a leave requ",
+    "page_number": 29
+  },
+  {
+    "text": "ary. Example chatbot question: How is a leave request approved?",
+    "page_number": 29
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 30 28. Sample Security Incident Response Policy owner: Human Resources | Status: Illustrative sample Recognize Examples include a lost laptop, suspected phishing, accidental email to the wrong recipient, exposed API key, malware alert, or unexpected access to HR records. Report promptly Contact the designated security or IT response channel. Provide the time, system, type of information involved, and actions already taken, without sending se",
+    "page_number": 30
+  },
+  {
+    "text": "ved, and actions already taken, without sending secrets through an insecure channel. Contain safely Follow responder instructions. If a credential is exposed, rotate or revoke it using the approved process. Do not delete evidence or conduct unauthorized forensic activity. Assess impact Authorized responders determine affected systems, data categories, access, and likely consequences. Legal, privacy, HR, or customer teams may be involved as required. Recover Restore systems through approved proce",
+    "page_number": 30
+  },
+  {
+    "text": "ed. Recover Restore systems through approved procedures, confirm access controls, and validate that the issue is contained before returning to normal operations. Learn Document root causes and improvements, such as better access controls, training, monitoring, backups, or safer AI-tool settings. No concealment Prompt good-faith reporting is encouraged. Employees should not hide mistakes or delay reporting while attempting to fix an incident alone. Example chatbot question: What should someone do",
+    "page_number": 30
+  },
+  {
+    "text": ". Example chatbot question: What should someone do after exposing an API key?",
+    "page_number": 30
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 31 29. Sample RAG & AI-Tool Use Guidance Policy owner: Human Resources | Status: Illustrative sample Approved use case An HR policy assistant may answer employee questions using approved policy documents. It should not invent benefits or make binding employment decisions. Document preparation Extract text from approved documents, split it into manageable chunks, generate embeddings, and store vectors with source metadata in an approved vecto",
+    "page_number": 31
+  },
+  {
+    "text": " vectors with source metadata in an approved vector store. Retrieval For each question, retrieve relevant chunks using similarity search or a hybrid retrieval method. Apply access controls before returning documents to the model. Answer generation Give the LLM the question and retrieved context, instruct it to answer only where the evidence supports a response, and request source references. Insufficient evidence If relevant content is not found or conflicts cannot be resolved, the assistant sho",
+    "page_number": 31
+  },
+  {
+    "text": "or conflicts cannot be resolved, the assistant should say that the available policy material is insufficient and direct the employee to HR. Evaluation Test representative questions, paraphrases, ambiguous requests, outdated policies, and questions with no answer in the source. Measure retrieval relevance, groundedness, correctness, latency, and cost. Privacy and security Do not index documents that the user is not authorized to access. Use approved providers, protect secrets, minimize personal d",
+    "page_number": 31
+  },
+  {
+    "text": "ed providers, protect secrets, minimize personal data, and log only what is necessary. Human accountability HR remains responsible for interpreting policy and resolving exceptions. The assistant supports access to information; it does not replace authorized HR decisions. Example chatbot question: How should an HR RAG assistant respond when evidence is missing?",
+    "page_number": 31
+  },
+  {
+    "text": "ExampleTech Solutions — Sample HR Policy Handbook Page 32 30. Acknowledgement & Sample Contact Directory Policy owner: Human Resources | Status: Illustrative sample Employee acknowledgement I acknowledge that I have received and reviewed the applicable employee handbook and understand that I should ask HR if I need clarification. I understand that this sample document is illustrative and does not create employment terms. Employee name ____________________________________________ Employee ID ____",
+    "page_number": 32
+  },
+  {
+    "text": "_________________________________ Employee ID ____________________________________________ Signature ____________________________________________ Date ____________________________________________ Sample contact directory HR helpdesk: hr@example.invalid | Payroll: payroll@example.invalid | IT/Security: security@example.invalid | Emergency contact: use the locally published emergency number. Important notice The example.invalid addresses are deliberately nonfunctional placeholders. Replace them wi",
+    "page_number": 32
+  },
+  {
+    "text": "rately nonfunctional placeholders. Replace them with approved contacts before any internal use. Document control Document title: Sample HR Policy Handbook | Organization: ExampleTech Solutions Pvt. Ltd. (fictional) | Version: 1.0 | Status: Demonstration only | Review owner: HR | Effective date: illustrative only. Example chatbot question: What does the employee acknowledgement confirm?",
+    "page_number": 32
+  }
+]
