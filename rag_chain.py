@@ -11,9 +11,12 @@ from sentence_transformers import SentenceTransformer
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL = "gemini-2.5-flash"
 
+api_key = os.getenv("GEMINI_API_KEY")
 
-load_dotenv()
-client = genai.Client()
+if not api_key:
+    raise ValueError("GEMINI_API_KEY is missing. Configure it in Streamlit Cloud Secrets.")
+
+client = genai.Client(api_key=api_key)
 
 
 def generate_answer(question, index, chunks, embedding_model):
