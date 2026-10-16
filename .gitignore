@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/*.index
+data/chunks.json
+*.log
+.DS_Store
+Thumbs.db
